@@ -10,4 +10,8 @@ This repository contains all lab exercises, assignments, and practice problems f
 - **Programming Language:** C++  
 - **Topics Covered:** Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Searching, Sorting, and more.
 
-## Repository Structure
+## Competitive Programming
+
+I am an active competitive programmer.  
+Check out my Codeforces profile here: [Codeforces](https://codeforces.com/profile/tawhid_6969)
+
